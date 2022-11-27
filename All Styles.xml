@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" ?>    
-        <Macro name="APA_Split_Reference" Ctrl="yes" Alt="yes" Shift="no" Key="48">
+         <Macro name="APA_Split_Reference" Ctrl="yes" Alt="yes" Shift="no" Key="48">
             <Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
             <Action type="3" message="1601" wParam="0" lParam="0" sParam="(\(Ed\.\)\.)|(\(ed\.\)\.)|(\(Ed\)\.)|(\(Ed\.\))|\(Ed\)" />
             <Action type="3" message="1625" wParam="0" lParam="2" sParam="" />
